@@ -949,3 +949,8 @@ without(a = a,b = b)
 ## Multiply strings
 bake = 3
 lake = 2
+
+# Create new function
+def My_name(name):
+  identity = print("My name is":,name)
+  return identity
